@@ -1,1 +1,22 @@
+html {
+  font-family: "Times New Roman", Serif
+}
 
+h1 {
+  font-size: 48px;
+  color: White;
+  text-align: center;
+}
+
+h2 {
+  font-size: 32px;
+  color: White;
+}
+
+p {
+  font-size: 24px;
+}
+
+body {
+  background-color: midnightblue
+}
